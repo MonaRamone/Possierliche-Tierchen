@@ -1,0 +1,14 @@
+---
+typ: kunstgriff
+---
+# 38. Persönlich werden
+
+## Kerndefinition
+Bei drohender Niederlage zur persönlichen Beleidigung übergehen – letztes Mittel.
+
+## Gegenmittel
+Nicht auf der persönlichen Ebene mitgehen, das Gespräch benennen und ggf. beenden – siehe [[Grey Rock]].
+
+## Verwandte Verhaltensweisen
+- [[Pavianarsch]]
+- [[Stromberg]]
