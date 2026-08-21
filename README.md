@@ -1,7 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31137841/README.md)
----
-modified: 2026-08-17T09:37:45+02:00
----
 # Possierliche Tierchen
 
 ## Was das hier ist

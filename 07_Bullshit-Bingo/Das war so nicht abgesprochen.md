@@ -1,5 +1,6 @@
 ---
 typ: bullshit-bingo
+eskalation: "2"
 ---
 # "Das war so nicht abgesprochen."
 

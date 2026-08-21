@@ -1,5 +1,6 @@
 ---
 typ: bullshit-bingo
+eskalation: "2"
 ---
 # "Ich war noch nicht fertig."
 

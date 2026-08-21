@@ -1,5 +1,6 @@
 ---
 typ: bullshit-bingo
+eskalation: "1"
 ---
 # "Das war noch keine Antwort auf meine Frage."
 

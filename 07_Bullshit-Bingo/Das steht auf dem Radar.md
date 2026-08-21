@@ -1,5 +1,6 @@
 ---
 typ: bullshit-bingo
+eskalation: "0"
 ---
 # "Das steht auf dem Radar."
 

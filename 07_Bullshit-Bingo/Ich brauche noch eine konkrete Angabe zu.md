@@ -1,5 +1,6 @@
 ---
 typ: bullshit-bingo
+eskalation: "1"
 ---
 # "Ich brauche noch eine konkrete Angabe zu..."
 

@@ -1,5 +1,6 @@
 ---
 typ: bullshit-bingo
+eskalation: "1"
 ---
 # "Was genau bedeutet das jetzt konkret?"
 

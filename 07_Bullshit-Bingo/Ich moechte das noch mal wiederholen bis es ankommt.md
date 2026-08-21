@@ -1,5 +1,6 @@
 ---
 typ: bullshit-bingo
+eskalation: "3"
 ---
 # "Ich möchte das noch mal wiederholen, bis es ankommt."
 

@@ -1,11 +1,11 @@
 ---
-modified: 2026-08-17T10:20:48+02:00
 typ: situation
 ---
-# Situationen – nach Kategorie
+# Situationen – Übersicht
 
-Kategorien sind hier nur ein Index, keine Unterordner. Eine Situation kann in mehreren Kategorien auftauchen, wenn sie mehrdeutig ist.
+> Kategorien sind hier nur ein Index, keine Unterordner. Eine Situation kann in mehreren Kategorien auftauchen, wenn sie mehrdeutig ist.
 
+---
 ## Grenzen
 - [[Nein wird nicht akzeptiert]]
 - [[Rechtfertigung einfordern]]
@@ -44,3 +44,7 @@ Kategorien sind hier nur ein Index, keine Unterordner. Eine Situation kann in me
 - [[Ja sagen anders handeln]]
 - [[Endlos reden]]
 - [[Nicht zuhoeren]]
+
+---
+## Umfang
+31 Situationen in 4 Kategorien

@@ -1,5 +1,6 @@
 ---
 typ: bullshit-bingo
+eskalation: "1"
 ---
 # "Ich fasse mal zusammen, damit wir weiterkommen."
 

@@ -1,6 +1,5 @@
 ---
 typ: verwechslungsgefahr
-modified: 2026-08-17T10:08:04+02:00
 ---
 # Verwechslungsmatrix (Verhaltensweisen)
 

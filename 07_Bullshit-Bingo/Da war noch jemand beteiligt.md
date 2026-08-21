@@ -1,6 +1,6 @@
 ---
 typ: bullshit-bingo
-modified: 2026-08-17T09:43:56+02:00
+eskalation: "2"
 ---
 # "Da war noch jemand beteiligt."
 

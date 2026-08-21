@@ -1,5 +1,6 @@
 ---
 typ: bullshit-bingo
+eskalation:
 ---
 # "Die Entscheidung steht."
 

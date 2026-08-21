@@ -1,5 +1,6 @@
 ---
 typ: bullshit-bingo
+eskalation: "0"
 ---
 # "Ich melde mich."
 

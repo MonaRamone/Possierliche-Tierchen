@@ -1,29 +1,12 @@
 ---
-title: "{{Schopenhauer, das Arschloch}}"
-created:
-  "{ date:2025-12-04 }":
-updated:
-  "{ date:2025-12-04 }":
-format: Talkshow
-cluster: Philosophy
 tags:
   - flying-u-page
   - talkshow
   - satire
-status: 🟢 Final
-progress: 1
-medium: TV-Studio
-tone: pointiert / absurd / analytisch
-theme: Philosophie und Medienkritik
-summary: Ein Streitgespräch zwischen Logik, Emotion und Ironie.
-quote: Ich war nie stabil. Ich war nur zu früh gesendet.
 typ: kunstgriff
 ---
-
-### *Live bei Magnus Glanz*  
-
+## *Live bei Magnus Glanz*  
 ---
-
 *(Intro-Musik. Applaus. Kamera fährt über das Publikum.  
 Schnitt auf die Runde: drei Menschen, ein zu heller Tisch, Wasser in Gläsern.  
 Das Licht schmeichelt niemandem.)*  

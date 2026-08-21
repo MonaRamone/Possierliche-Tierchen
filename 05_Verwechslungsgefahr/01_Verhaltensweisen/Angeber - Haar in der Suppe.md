@@ -1,6 +1,5 @@
 ---
 typ: verwechslungsgefahr
-modified: 2026-08-17T10:38:09+02:00
 ---
 # Haar in der Suppe ↔ Angeber
 

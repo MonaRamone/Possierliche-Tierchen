@@ -6,6 +6,7 @@ typ: tool
 ## Prinzip
 Eine Technik pro Datei, wiederverwendbar über mehrere Situationen und Archetypen hinweg. Nicht an eine bestimmte Person gebunden, sondern an eine Art von Situation.
 
+---
 ## Techniken
 | Technik | Prinzip in einem Satz |
 |---|---|
@@ -20,8 +21,14 @@ Eine Technik pro Datei, wiederverwendbar über mehrere Situationen und Archetype
 | [[FAST]] | DBT-Skill: Selbstachtung wahren, wenn Druck besteht nachzugeben. |
 | [[Grey Rock]] | Bewusst emotionslos werden, keine Angriffsfläche liefern. |
 
+---
 ## Kein Werkzeug, sondern Erklärung
 [[Karpman-Dreieck]] liegt mit im Ordner, ist aber keine Technik, sondern ein Modell, das erklärt, *warum* z. B. [[Verantwortung zurueckgeben]] funktioniert.
 
+---
+## Umfang
+10 Techniken
+
+---
 ## Verwandte, aber eigenständige Kategorie
 `Bullshit Bingo/` gehört inhaltlich eng zur Toolbox, ist aber ein eigener Ordner auf gleicher Ebene – siehe README.

@@ -31,19 +31,16 @@ while (weiter) {
 const archetypen = ["(unbekannt)", "Papa Schlumpf", "Der Schnorrer", "Der Micromanager", "Der Drama-Magnet", "Der Maertyrer", "Der Blender", "Der Besserwisser-Chef", "Der Phantomarbeiter", "Der Harmonie-Diktator", "Der Strippenzieher", "Der Platzhirsch", "Der Noergler", "Der Ausweicher", "Der Opferkoenig", "Der Suendenbock-Sucher", "Der Dampfwalzen-Typ", "Der Radfahrer", "Der Trittbrettfahrer", "Der Nachtreter", "Der Phrasendrescher", "Der Schoenredner", "Der Krisenjunkie", "Das Chamaeleon", "Der Teflon-Mensch", "Schlaubi Schlumpf", "Der Mansplainer", "Der Windbeutel", "Die Schlumpfine", "Der Babo", "Das Faehnchen-im-Wind", "Der Credit-Sammler", "Der Paragraphenreiter"];
 const archetyp = await tp.system.suggester(archetypen, archetypen, false, "Archetyp, falls bekannt");
 
-// ── Properties direkt über Obsidians API setzen, unabhängig davon, was schon in der Datei steht ──────────────────────────────────
-// Kurze Wartezeit, damit das Timestamps-Plugin (front-matter-timestamps) zuerst fertig schreiben kann
-await new Promise((resolve) => setTimeout(resolve, 1500));
-const zielDatei = tp.file.find_tfile(tp.file.title);
-await app.fileManager.processFrontMatter(zielDatei, (fm) => {
-  fm["typ"] = "fallstudie";
-  fm["created"] = tp.date.now("YYYY-MM-DD");
-  fm["ausgangstyp"] = ausgangsLabel;
-  fm["ausgangspunkt"] = "[[" + ausgangspunkt + "]]";
-  fm["archetyp"] = archetyp === "(unbekannt)" ? "unbekannt" : "[[" + archetyp + "]]";
-  fm["runden"] = kette.length;
-  fm["status"] = "";
-});
+// ── YAML-Properties direkt in das gerenderte Dokument schreiben ──────────────────
+tR += `---
+typ: fallstudie
+ausgangstyp: ${JSON.stringify(ausgangsLabel)}
+ausgangspunkt: ${JSON.stringify("[[" + ausgangspunkt + "]]" )}
+archetyp: ${JSON.stringify(archetyp === "(unbekannt)" ? "unbekannt" : "[[" + archetyp + "]]" )}
+runden: ${kette.length}
+status: ""
+---
+`;
 -%>
 # <% tp.file.title %>
 

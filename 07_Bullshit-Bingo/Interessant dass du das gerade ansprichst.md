@@ -1,5 +1,6 @@
 ---
 typ: bullshit-bingo
+eskalation: "1"
 ---
 # "Interessant, dass du das gerade ansprichst."
 

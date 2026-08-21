@@ -1,6 +1,5 @@
 ---
 typ: verhaltensweise
-modified: 2026-08-17T10:09:16+02:00
 ---
 # Angeber
 *"Angeber" – Die Ärzte*

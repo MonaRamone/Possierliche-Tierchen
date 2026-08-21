@@ -1,0 +1,17 @@
+---
+typ: archetyp
+---
+# Archetypen – Übersicht
+
+## Prinzip
+Archetypen sind bewusst vereinfachte Personas. Sie beschreiben keine Persönlichkeiten und ersetzen keine psychologische Einordnung. Sie dienen als gedankliche Abkürzungen für wiederkehrende Kombinationen von Verhaltensweisen.
+
+Menschen zeigen je nach Situation unterschiedliche Archetypen oder auch gar keinen. Ziel ist nicht, Menschen in Schubladen zu stecken, sondern wiederkehrende Interaktionsmuster schneller zu erkennen.
+
+---
+## Umfang
+33 Archetypen
+
+---
+## Verwechslungsgefahr
+8 ausgearbeitete Paare, siehe [[_Matrix (Archetypen)]]

@@ -1,5 +1,6 @@
 ---
 typ: bullshit-bingo
+eskalation: "2"
 ---
 # "Das betrifft gerade jemand anderen."
 
