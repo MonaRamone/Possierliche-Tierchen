@@ -1,6 +1,7 @@
 ---
 typ: kunstgriff
-modified: 2026-08-22T11:29:07+02:00
+created: 2026-08-22T11:19:56+02:00
+modified: 2026-08-22T11:19:56+02:00
 ---
 # Eristische Dialektik – Übersicht
 *Arthur Schopenhauer, um 1830 (postum veröffentlicht) –  "Die Kunst, Recht zu behalten"*

@@ -1,0 +1,15 @@
+---
+typ: kunstgriff
+created: 2026-08-22T11:19:56+02:00
+modified: 2026-08-22T11:19:56+02:00
+---
+# 25. Gegenbeispiel suchen
+
+## Kerndefinition
+Ein einzelnes Gegenbeispiel finden, um eine allgemeine Regel zu widerlegen.
+
+## Gegenmittel
+Prüfen, ob das Gegenbeispiel die Regel tatsächlich widerlegt oder nur eine seltene Ausnahme ist – Ausnahmen widerlegen nicht automatisch die Regel.
+
+## Verwandte Verhaltensweisen
+- [[Haar in der Suppe]]

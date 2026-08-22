@@ -1,5 +1,6 @@
 ---
 typ: archetyp
+modified: 2026-08-22T11:21:58+02:00
 ---
 # Der Schnorrer
 

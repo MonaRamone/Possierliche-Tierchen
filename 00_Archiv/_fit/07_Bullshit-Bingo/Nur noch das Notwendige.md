@@ -1,7 +1,8 @@
 ---
 typ: bullshit_bingo
 eskalation: "5"
-modified: 2026-08-22T11:23:48+02:00
+created: 2026-08-22T11:20:00+02:00
+modified: 2026-08-22T11:23:22+02:00
 ---
 # "Lass uns den Kontakt auf das Notwendige beschränken."
 
